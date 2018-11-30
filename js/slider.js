@@ -1,3 +1,5 @@
+'use strict';
+
 let photoLinksArray = [
 'https://netology-code.github.io/hj-homeworks/browser/slider/i/airmax-jump.png',
 'https://netology-code.github.io/hj-homeworks/browser/slider/i/airmax-on-foot.png',
